@@ -75,16 +75,20 @@ You will need a laptop with a Mac, Linux, or Windows operating system (not a tab
 
 **On your machine**
 - the Bash shell; you should only have to set this up if you are using a Windows machine, following the [Software Carpentry setup instructions](http://carpentries.github.io/workshop-template/#setup)
-- Git [installed](http://carpentries.github.io/workshop-template/#setup) and [configured](https://swcarpentry.github.io/git-novice/02-setup.html) on your local machine
-- Python 3.x; we recommend installing [Miniconda](https://docs.anaconda.com/miniconda/)
-- a text editor, preferably one designed for writing code; we recommend [VS Code](https://code.visualstudio.com) if you haven't chosen one.
+- Git [installed](https://carpentries.github.io/workshop-template/#git-1) and [configured](https://swcarpentry.github.io/git-novice/02-setup.html) on your local machine to attribute commits to you and your email address. Note for windows users: if you do not already have git set up locally, you can choose either git bash or installing the windows subsystem for linux. Both install options are included in the link above.
+- Github SSH keys set up. You will need this to be able to push/pull from
+github with git on your local machine. If you prefer to use https and already
+have that configured, that's fine. You can find out more about
+[creating](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and setting up
+ssh keys for your github account [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+- Python 3.x; we recommend installing [Miniforge](https://conda-forge.org/download/) to manage the dependencies you'll be using in this school. Some lessons will require additional dependencies that you'll install during the course.
+- a text editor, preferably one designed for writing code. Instructors in this school use emacs, vim, and vscode. Choose something you are comfortable with.
 
 **In the browser**
-- You will need a [GitHub](https://github.com/) account to participate in the school. Make sure you have your [github authentication](https://swcarpentry.github.io/git-novice/#creating-a-github-account) set up as well. 
+- You will need a [GitHub](https://github.com/) account to participate in the school. Make sure you have your [github authentication](https://swcarpentry.github.io/git-novice/#creating-a-github-account) set up as well. Note that we do understand that you may choose to use other git hosting options, such as gitlab. We will be instructing lessons through github because of its current ubiquity in the ecosystem, but you are welcome to continue your software work outside of the school with whichever tools you prefer.
 - Sign in to the school's Zulip instance to communicate with students and instructors throughout the course: https://urssi-softwareschool.zulipchat.com
 
-Specific Python packages (install with pip or conda)
-[TODO: DETERMINE DEPENDENCIES]
+Specific Python packages will be installed during lessons throughout the school.
 
 ## Projects
 
