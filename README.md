@@ -62,7 +62,7 @@ We have adopted a [code of conduct](https://github.com/si2-urssi/summerschool-Au
 
 ## Instructors
 
-[Madicken Munk](https://github.com/munkm)
+[Madicken Munk](https://github.com/munkm) is an Assistant Professor in the School of Nuclear Science and Engineering at Oregon State University. Previously, she was a postdoc at the University of Illinois' National Center for Supercomputing Applications where she was a maintainer and release manager of yt, a visualization package for simulation data.
 
 
 ## Teaching assistants / aids
@@ -95,7 +95,7 @@ Specific Python packages will be installed during lessons throughout the school.
 Most of your work time will be spent on an individual project where you develop a research software package.
 You are expected to come with idea or some basis for a project.
 
-Ideally, this should be something that supports your work and that you would (or could) continue developing or using after the winter school.
+Ideally, this should be something that supports your work and that you would (or could) continue developing or using after the summer school.
 We hope that most—or at least some—of the projects will eventually be submitted to the [Journal of Open Source Software (JOSS)](https://joss.theoj.org), which we'll briefly talk about on the final day.
 
 ## Reimbursements
