@@ -8,12 +8,15 @@
 
 [Zulip chat room](https://urssi-softwareschool.zulipchat.com)
 
---- 
+---
 
 August 11-15 2025, Fairbanks, AK
 
-Welcome! This is the repository for the 2025 URSSI Summer School on Research Software and Open Science, held at the University of Alaska Fairbanks. 
-All instruction will happen at the [BUILDING NAME](), room <ROOM NO>.
+Welcome! This is the repository for the 2025 URSSI Summer School on Research Software and Open Science, held at the University of Alaska Fairbanks.
+We have had generous support organizing this school from the Alaska Satellite Facility and the Geophysical Institute, who are helping to host this school.
+All instruction will happen in Butrovich Hall, room 109. The poster session
+will be held in Akasofu Lobby, just up the hill from Butrovich hall.
+
 
 ## Tentative schedule
 
@@ -23,36 +26,43 @@ All instruction will happen at the [BUILDING NAME](), room <ROOM NO>.
 | August 11th, 9-9:45am  | [Welcome and introductions](https://munkm.github.io/research-software-schools/school-intro.slides.html) | Madicken |
 | August 11th, 9:45am-12 | [Collaboration with git and github / collaboration workflows]() | Brigitta |
 | August 11th, 12-1:00pm | Lunch | |
-| August 11th, 1pm-3:30pm | [Software Design Principles, Modularity, Packaging]() | John | 
+| August 11th, 1pm-3:30pm | [Software Design Principles, Modularity, Packaging]() | John |
 | August 11th, 3:30-5pm | Ethos of Open Science | Madicken |
 |--|--|--|
 | August 12th, 8:30-9am | Room Open, Coffee | |
 | August 12th, 9am-12 | [Peer Code Review and Community Approaches]() | Brigitta |
 | August 12th, 12-1:00pm | Lunch | |
-| August 12th, 1pm-3pm | Work Time | | 
+| August 12th, 1pm-3pm | Work Time | |
 | August 12th, 3-5pm | Poster Session | |
 |--|--|--|
 | August 13th, 8:30-9am | Room Open, Coffee | |
 | August 13th, 9am-12 | [Documentation and Versioning]() | Tim |
 | August 13th, 12-1:00pm | Lunch | |
-| August 13th, 1pm-3pm | Work Time | | 
+| August 13th, 1pm-3pm | Work Time | |
 | August 13th, 3-5pm | Open Tools and Resources | Joe |
 |--|--|--|
 | August 14th, 8:30-9am | Room Open, Coffee | |
 | August 14th, 9am-12 | [Testing and Continuous Integration]() | John |
 | August 14th, 12-1:00pm | Lunch | |
-| August 14th, 1pm-2:30pm | Work Time | | 
+| August 14th, 1pm-2:30pm | Work Time | |
 | August 14th, 2:30-3:30pm | Testing Notebooks | Brigitta |
 | August 14th, 3:30-5pm | Open Data | Tim |
+| August 14th, 6:00pm | School Dinner, Alaska Salmon Bake | Everybody |
 |--|--|--|
 | August 15th, 8:30-9am | Room Open, Coffee | |
 | August 15th, 9am-12 | [Open Practices and Software Citation]() | Madicken |
 | August 15th, 12-1:00pm | Lunch | |
-| August 15th, 1pm-3pm | Work Time | | 
+| August 15th, 1pm-3pm | Work Time | |
 | August 15th, 3-5pm | Open Results | Joe |
 |--|--|--|
 
 Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site M-F.
+
+We will have a final school dinner at Alaska Salmon Bake, in Pioneer Park.
+If you have family nearby/joining you in Alaska, they are welcome to join
+us for the dinner (and we’d love to have them!). Our funding will not cover
+their meal, so when we are seated they will need to go to the cashier and
+order off the menu.
 
 [Distributing your Science]: https://github.com/matthewfeickert-talks/talk-urssi-summer-school-2024
 
@@ -62,7 +72,7 @@ We have adopted a [code of conduct](https://github.com/si2-urssi/summerschool-Au
 
 ## Instructors
 
-[Madicken Munk](https://github.com/munkm) is an Assistant Professor in the School of Nuclear Science and Engineering at Oregon State University. Previously, she was a postdoc at the University of Illinois' National Center for Supercomputing Applications where she was a maintainer and release manager of yt, a visualization package for simulation data. 
+[Madicken Munk](https://github.com/munkm) is an Assistant Professor in the School of Nuclear Science and Engineering at Oregon State University. Previously, she was a postdoc at the University of Illinois' National Center for Supercomputing Applications where she was a maintainer and release manager of yt, a visualization package for simulation data.
 
 Joseph Kennedy
 
