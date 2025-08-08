@@ -64,10 +64,20 @@ We have adopted a [code of conduct](https://github.com/si2-urssi/summerschool-Au
 
 [Madicken Munk](https://github.com/munkm) is an Assistant Professor in the School of Nuclear Science and Engineering at Oregon State University. Previously, she was a postdoc at the University of Illinois' National Center for Supercomputing Applications where she was a maintainer and release manager of yt, a visualization package for simulation data. 
 
+Joseph Kennedy
+
+John Kirkham
+
+Tim Monko
+
+Brigitta Sipőcz
 
 ## Teaching assistants / aids
 
- 
+* Lucio Queiroz
+* Sujay Shankar
+* Cong Gao
+
 ## Requirements
 
 You will need a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on, and need some specific software packages installed:
