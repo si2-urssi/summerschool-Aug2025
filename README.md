@@ -120,7 +120,8 @@ We hope that most—or at least some—of the projects will eventually be submit
 
 ## Reimbursements
 
-Please follow the instructions you will receive over email and reach out to Madicken Munk with any questions or concerns.
+Please follow the instructions you will receive over email and reach out to Madicken Munk with any questions or concerns. For detailed instructions on the
+reimbursement process, please see [reimbursement-process.md](reimbursement-process.md).
 
 ## Feedback
 
