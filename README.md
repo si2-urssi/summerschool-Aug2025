@@ -58,6 +58,11 @@ will be held in Akasofu Lobby, just up the hill from Butrovich hall.
 
 Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site M-F.
 
+Monday-Wednesday evening of the school are free and you’re welcome to
+self-organize dinners with other school participants! [fairbanks-food-locations.pdf](resources/fairbanks-food-locations.pdf) is a file with a list
+of popular food / dining establishments around Fairbanks that you can
+use to get started.
+
 We will have a final school dinner at Alaska Salmon Bake, in Pioneer Park.
 If you have family nearby/joining you in Alaska, they are welcome to join
 us for the dinner (and we’d love to have them!). Our funding will not cover
