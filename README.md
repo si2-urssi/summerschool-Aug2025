@@ -13,7 +13,7 @@
 August 11-15 2025, Fairbanks, AK
 
 Welcome! This is the repository for the 2025 URSSI Summer School on Research Software and Open Science, held at the University of Alaska Fairbanks. 
-All instruction will happen at in Butrovich Hall, 910 Yukon Dr., in Room 109.
+All instruction will happen in Room 109, Butrovich Hall, 910 Yukon Dr.
 
 ## Tentative schedule
 
