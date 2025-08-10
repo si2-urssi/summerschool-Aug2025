@@ -17,6 +17,9 @@ We have had generous support organizing this school from the Alaska Satellite Fa
 All instruction will happen in Butrovich Hall, room 109. The poster session
 will be held in Akasofu Lobby, just up the hill from Butrovich hall.
 
+![Map of University of Alaska Fairbanks, with buildings of interest for the
+school boxed in blue](resources/UAF-Campus-map.png)
+
 
 ## Tentative schedule
 
@@ -73,7 +76,7 @@ order off the menu.
 
 ## Code of Conduct
 
-We have adopted a [code of conduct](https://github.com/si2-urssi/summerschool-Aug2025/blob/main/CODE_OF_CONDUCT.md) for the URSSI Summer School and all associated spaces, both physical and digital. Please review this.
+We have adopted a [code of conduct](CODE_OF_CONDUCT.md) for the URSSI Summer School and all associated spaces, both physical and digital. Please review this.
 
 ## Instructors
 
