@@ -84,16 +84,15 @@ We have adopted a [code of conduct](CODE_OF_CONDUCT.md) for the URSSI Summer Sch
 
 ## Instructors
 
-[Madicken Munk](https://github.com/munkm) is an Assistant Professor in the School of Nuclear Science and Engineering at Oregon State University. Previously, she was a postdoc at the University of Illinois' National Center for Supercomputing Applications where she was a maintainer and release manager of yt, a visualization package for simulation data. 
+[Madicken Munk](https://github.com/munkm) is an Assistant Professor in the School of Nuclear Science and Engineering at Oregon State University. Previously, she was a postdoc at the University of Illinois' National Center for Supercomputing Applications where she was a maintainer and release manager of yt, a visualization package for simulation data.
+
 [Brigitta Sipőcz](https://github.com/bsipocz) is a Research Software Engineer at Caltech/IPAC at the NASA/IPAC Infrared Science Archive. She has a research astronomy background and she is a maintainer for various astronomy Python libraries. She propaply cares way too much about tooling and infrastructure with a keen interest on solving CI/CD challenges of executable tutorial content.
+
+[John Kirkham](https://github.com/jakirkham) is a Principal System Software Engineer at NVIDIA on the RAPIDS team. His background is in Physics with past research projects focused on the intersection of Physics and Biology. As a software engineer, John has worked on a range of different problems from software packaging, distributed computing, data storage, etc..
 
 Joseph Kennedy
 
-John Kirkham
-
 Tim Monko
-
-Brigitta Sipőcz
 
 ## Teaching assistants / aids
 
