@@ -18,7 +18,7 @@ Please make sure you complete this ASAP!
 2. **This and all subsequent steps are for people doing reimbursements**: 
 separately from the BennyBuy system, download and add your personal
 information and travel expenses to the
-["NonOSU_TravelReimbursement-URSSI.pdf" form](./NonOSU_TravelReimbursement-URSSI.pdf), which has been pre-populated with some information. 
+[FORM TO BE UPLOADED](./NonOSU_TravelReimbursement-URSSI.pdf), which has been pre-populated with some information. 
   - Add your personal info (leave "OSU ID#" blank)
   - In Travel Itinerary section, add your home city.  
   - In the Meals section, if your travel dates are different, you'll need to modify to account for that.
