@@ -17,6 +17,8 @@ We have had generous support organizing this school from the Alaska Satellite Fa
 All instruction will happen in Butrovich Hall, room 109. The poster session
 will be held in Akasofu Lobby, just up the hill from Butrovich hall.
 
+We've created a map with various locations of the school highlighted, shown below. 
+
 ![Map of University of Alaska Fairbanks, with buildings of interest for the
 school boxed in blue](resources/UAF-Campus-map.png)
 
@@ -65,6 +67,8 @@ Monday-Wednesday evening of the school are free and you’re welcome to
 self-organize dinners with other school participants! [fairbanks-food-locations.pdf](resources/fairbanks-food-locations.pdf) is a file with a list
 of popular food / dining establishments around Fairbanks that you can
 use to get started.
+
+Please also check out the [UAF-resources.md](resources/UAF-info.md) document that includes information on how to get around campus, bike rentals, and information on your lodging. 
 
 We will have a final school dinner at Alaska Salmon Bake, in Pioneer Park.
 If you have family nearby/joining you in Alaska, they are welcome to join
