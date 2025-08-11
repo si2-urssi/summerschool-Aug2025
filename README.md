@@ -4,7 +4,7 @@
 
 ## Discussion and notes
 
-[HackMD for notes/discussion]()
+[HackMD for notes/discussion](https://hackmd.io/@M0eajM-mS9CDKKt8Rq--0g/rJjaxzDdgg)
 
 [Zulip chat room](https://urssi-softwareschool.zulipchat.com)
 
@@ -28,7 +28,7 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | Time | Topic  | Instructor |
 |:--|:--|:--|
 | August 11th, 8:30-9am | Room Open, Coffee | |
-| August 11th, 9-9:45am  | [Welcome and introductions](https://munkm.github.io/research-software-schools/school-intro.slides.html) | Madicken |
+| August 11th, 9-9:45am  | [Welcome and introductions](https://munkm.github.io/research-software-schools/school-intro-UAF.slides.html) | Madicken |
 | August 11th, 9:45am-12 | [Collaboration with git and github / collaboration workflows](https://github.com/bsipocz/URSSI_2025Aug_first_PR) | Brigitta |
 | August 11th, 12-1:00pm | Lunch | |
 | August 11th, 1pm-3:30pm | [Software Design Principles, Modularity, Packaging]() | John |
