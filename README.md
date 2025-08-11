@@ -92,7 +92,7 @@ We have adopted a [code of conduct](CODE_OF_CONDUCT.md) for the URSSI Summer Sch
 
 [John Kirkham](https://github.com/jakirkham) is a Principal System Software Engineer at NVIDIA on the RAPIDS team. His background is in Physics with past research projects focused on the intersection of Physics and Biology. As a software engineer, John has worked on a range of different problems from software packaging, distributed computing, data storage, etc..
 
-Tim Monko
+[Tim Monko](https://github.com/TimMonko) is a Postdoc in the Department of Pediatrics at the University of Minnesota studying neural development and creating bioimage analysis tools. He is also community manager and core team member of napari, a multidimensional Python data viewer that can be extended by many domain-specific plugins.
 
 ## Teaching assistants / aids
 
