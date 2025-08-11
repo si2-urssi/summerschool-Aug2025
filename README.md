@@ -4,7 +4,7 @@
 
 ## Discussion and notes
 
-[HackMD for notes/discussion]()
+[HackMD for notes/discussion](https://hackmd.io/@M0eajM-mS9CDKKt8Rq--0g/rJjaxzDdgg)
 
 [Zulip chat room](https://urssi-softwareschool.zulipchat.com)
 
