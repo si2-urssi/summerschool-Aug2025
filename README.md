@@ -28,7 +28,7 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | Time | Topic  | Instructor |
 |:--|:--|:--|
 | August 11th, 8:30-9am | Room Open, Coffee | |
-| August 11th, 9-9:45am  | [Welcome and introductions](https://munkm.github.io/research-software-schools/school-intro.slides.html) | Madicken |
+| August 11th, 9-9:45am  | [Welcome and introductions](https://munkm.github.io/research-software-schools/school-intro-UAF.slides.html) | Madicken |
 | August 11th, 9:45am-12 | [Collaboration with git and github / collaboration workflows]() | Brigitta |
 | August 11th, 12-1:00pm | Lunch | |
 | August 11th, 1pm-3:30pm | [Software Design Principles, Modularity, Packaging]() | John |
