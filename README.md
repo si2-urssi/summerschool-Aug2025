@@ -17,7 +17,7 @@ We have had generous support organizing this school from the Alaska Satellite Fa
 All instruction will happen in Butrovich Hall, room 109. The poster session
 will be held in Akasofu Lobby, just up the hill from Butrovich hall.
 
-We've created a map with various locations of the school highlighted, shown below. 
+We've created a map with various locations of the school highlighted, shown below.
 
 ![Map of University of Alaska Fairbanks, with buildings of interest for the
 school boxed in blue](resources/UAF-Campus-map.png)
@@ -35,7 +35,7 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | August 11th, 3:30-5pm | Ethos of Open Science | Madicken |
 |--|--|--|
 | August 12th, 8:30-9am | Room Open, Coffee | |
-| August 12th, 9am-12 | [Peer Code Review and Community Approaches]() | Brigitta |
+| August 12th, 9am-12 | [Peer Code Review and Community Approaches](resources/code_review.md) | Brigitta |
 | August 12th, 12-1:00pm | Lunch | |
 | August 12th, 1pm-3pm | Work Time | |
 | August 12th, 3-5pm | Poster Session | |
@@ -68,7 +68,7 @@ self-organize dinners with other school participants! [fairbanks-food-locations.
 of popular food / dining establishments around Fairbanks that you can
 use to get started.
 
-Please also check out the [UAF-resources.md](resources/UAF-info.md) document that includes information on how to get around campus, bike rentals, and information on your lodging. 
+Please also check out the [UAF-resources.md](resources/UAF-info.md) document that includes information on how to get around campus, bike rentals, and information on your lodging.
 
 We will have a final school dinner at Alaska Salmon Bake, in Pioneer Park.
 If you have family nearby/joining you in Alaska, they are welcome to join
