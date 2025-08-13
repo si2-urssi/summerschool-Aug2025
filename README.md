@@ -41,7 +41,7 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | August 12th, 3-5pm | Poster Session | |
 |--|--|--|
 | August 13th, 8:30-9am | Room Open, Coffee | |
-| August 13th, 9am-12 | [Documentation and Versioning]() | Tim |
+| August 13th, 9am-12 | [Documentation and Versioning](https://github.com/TimMonko/urssi-docs) | Tim |
 | August 13th, 12-1:00pm | Lunch | |
 | August 13th, 1pm-3pm | Work Time | |
 | August 13th, 3-5pm | Open Tools and Resources | Joe |
