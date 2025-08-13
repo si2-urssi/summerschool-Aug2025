@@ -31,34 +31,37 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | August 11th, 9-9:45am  | [Welcome and introductions](https://munkm.github.io/research-software-schools/school-intro-UAF.slides.html) | Madicken |
 | August 11th, 9:45am-12 | [Collaboration with git and github / collaboration workflows](https://github.com/bsipocz/URSSI_2025Aug_first_PR) | Brigitta |
 | August 11th, 12-1:00pm | Lunch | |
-| August 11th, 1pm-3:30pm | [Software Design Principles, Modularity, Packaging]() | John |
-| August 11th, 3:30-5pm | Ethos of Open Science | Madicken |
+| August 11th, 1-2pm | [Collaboration with git and github / collaboration workflows](https://github.com/bsipocz/URSSI_2025Aug_first_PR) | Brigitta |
+| August 11th, 2pm-5pm | [Software Design Principles, Modularity, Packaging]() | John |
 |--|--|--|
 | August 12th, 8:30-9am | Room Open, Coffee | |
-| August 12th, 9am-12 | [Peer Code Review and Community Approaches](resources/code_review.md) | Brigitta |
-| August 12th, 12-1:00pm | Lunch | |
-| August 12th, 1pm-3pm | Work Time | |
-| August 12th, 3-5pm | Poster Session | |
+| August 12th, 9am-12:30pm | [Peer Code Review and Community Approaches](resources/code_review.md) | Brigitta |
+| August 12th, 12-1:30pm | Lunch | |
+| August 12th, 1:30pm-3pm | Work Time | |
+| August 12th, 3-5pm | Poster Session | Everybody |
 |--|--|--|
 | August 13th, 8:30-9am | Room Open, Coffee | |
 | August 13th, 9am-12 | [Documentation and Versioning](https://github.com/TimMonko/urssi-docs) | Tim |
 | August 13th, 12-1:00pm | Lunch | |
 | August 13th, 1pm-3pm | Work Time | |
-| August 13th, 3-5pm | Open Tools and Resources | Joe |
+| August 13th, 3-4pm | Ethos of Open Science | Madicken |
+| August 13th, 4-5pm | Open Tools and Resources | Joe |
+| August 13th, 5-7pm | Optional: Tour at ASF Museum | Everybody |
 |--|--|--|
 | August 14th, 8:30-9am | Room Open, Coffee | |
 | August 14th, 9am-12 | [Testing and Continuous Integration]() | John |
 | August 14th, 12-1:00pm | Lunch | |
 | August 14th, 1pm-2:30pm | Work Time | |
-| August 14th, 2:30-3:30pm | Testing Notebooks | Brigitta |
-| August 14th, 3:30-5pm | Open Data | Tim |
+| August 14th, 3-4pm | Testing Notebooks | Brigitta |
+| August 14th, 4-5pm | Open Data | Tim |
 | August 14th, 6:00pm | School Dinner, Alaska Salmon Bake | Everybody |
 |--|--|--|
 | August 15th, 8:30-9am | Room Open, Coffee | |
 | August 15th, 9am-12 | [Open Practices and Software Citation]() | Madicken |
 | August 15th, 12-1:00pm | Lunch | |
 | August 15th, 1pm-3pm | Work Time | |
-| August 15th, 3-5pm | Open Results | Joe |
+| August 15th, 3-4pm | Open Results | Joe |
+| August 15th, 4-5pm | [Working with the Cloud]() | Joe |
 |--|--|--|
 
 Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site M-F.
