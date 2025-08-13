@@ -32,7 +32,7 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | August 11th, 9:45am-12 | [Collaboration with git and github / collaboration workflows](https://github.com/bsipocz/URSSI_2025Aug_first_PR) | Brigitta |
 | August 11th, 12-1:00pm | Lunch | |
 | August 11th, 1-2pm | [Collaboration with git and github / collaboration workflows](https://github.com/bsipocz/URSSI_2025Aug_first_PR) | Brigitta |
-| August 11th, 2pm-5pm | [Software Design Principles, Modularity, Packaging]() | John |
+| August 11th, 2pm-5pm | [Software Design Principles, Modularity, Packaging](https://github.com/jakirkham/2025-packaging-python) | John |
 |--|--|--|
 | August 12th, 8:30-9am | Room Open, Coffee | |
 | August 12th, 9am-12:30pm | [Peer Code Review and Community Approaches](resources/code_review.md) | Brigitta |
