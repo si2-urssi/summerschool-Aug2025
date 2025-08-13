@@ -46,20 +46,22 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | August 13th, 1pm-3pm | Work Time | |
 | August 13th, 3-4pm | Ethos of Open Science | Madicken |
 | August 13th, 4-5pm | Open Tools and Resources | Joe |
+| August 13th, 5-7pm | Optional: Tour at ASF Museum | Everybody |
 |--|--|--|
 | August 14th, 8:30-9am | Room Open, Coffee | |
 | August 14th, 9am-12 | [Testing and Continuous Integration]() | John |
 | August 14th, 12-1:00pm | Lunch | |
 | August 14th, 1pm-2:30pm | Work Time | |
-| August 14th, 2:30-3:30pm | Testing Notebooks | Brigitta |
-| August 14th, 3:30-5pm | Open Data | Tim |
+| August 14th, 3-4pm | Testing Notebooks | Brigitta |
+| August 14th, 4-5pm | Open Data | Tim |
 | August 14th, 6:00pm | School Dinner, Alaska Salmon Bake | Everybody |
 |--|--|--|
 | August 15th, 8:30-9am | Room Open, Coffee | |
 | August 15th, 9am-12 | [Open Practices and Software Citation]() | Madicken |
 | August 15th, 12-1:00pm | Lunch | |
 | August 15th, 1pm-3pm | Work Time | |
-| August 15th, 3-5pm | Open Results | Joe |
+| August 15th, 3-4pm | Open Results | Joe |
+| August 15th, 4-5pm | [Working with the Cloud]() | Joe |
 |--|--|--|
 
 Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site M-F.
