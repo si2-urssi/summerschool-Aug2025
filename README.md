@@ -52,7 +52,8 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | August 14th, 9am-12 | [Testing and Continuous Integration]() | John |
 | August 14th, 12-1:00pm | Lunch | |
 | August 14th, 1pm-2:30pm | Work Time | |
-| August 14th, 3-4pm | Testing Notebooks | Brigitta |
+| August 14th, 2:30-3:30pm | Testing Notebooks | Brigitta |
+| August 14th, 3:30-4pm | Open Tools and Resources | Joe |
 | August 14th, 4-5pm | Open Data | Tim |
 | August 14th, 6:00pm | School Dinner, Alaska Salmon Bake | Everybody |
 |--|--|--|
