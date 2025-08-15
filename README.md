@@ -58,10 +58,12 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | August 14th, 6:00pm | School Dinner, Alaska Salmon Bake | Everybody |
 |--|--|--|
 | August 15th, 8:30-9am | Room Open, Coffee | |
-| August 15th, 9am-12 | [Open Practices and Software Citation]() | Madicken |
+| August 15th, 9-10am | Open Data | Tim |
+| August 15th, 10am-12 | [Open Practices and Software Citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) | Madicken |
 | August 15th, 12-1:00pm | Lunch | |
 | August 15th, 1pm-3pm | Work Time | |
-| August 15th, 3-4pm | Open Results | Joe |
+| August 15th, 2:30-3:30pm | Software Design | Tim |
+| August 15th, 3:30-4pm | Open Results | Joe |
 | August 15th, 4-5pm | [Working with the Cloud]() | Joe |
 |--|--|--|
 
