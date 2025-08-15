@@ -49,7 +49,7 @@ school boxed in blue](resources/UAF-Campus-map.png)
 | August 13th, 5-7pm | Optional: Tour at ASF Museum | Everybody |
 |--|--|--|
 | August 14th, 8:30-9am | Room Open, Coffee | |
-| August 14th, 9am-12 | [Testing and Continuous Integration]() | John |
+| August 14th, 9am-12 | [Testing and Continuous Integration]( https://github.com/si2-urssi/summerschool-Aug2025 ) | John |
 | August 14th, 12-1:00pm | Lunch | |
 | August 14th, 1pm-2:30pm | Work Time | |
 | August 14th, 2:30-3:30pm | Testing Notebooks | Brigitta |
